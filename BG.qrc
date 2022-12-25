@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/background image">
+        <file>E:/Snipping Tool/Last.jpeg</file>
+        <file>E:/Snipping Tool/WB.jpeg</file>
+        <file>E:/Snipping Tool/Info.jpeg</file>
+    </qresource>
+</RCC>
